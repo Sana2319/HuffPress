@@ -14,7 +14,6 @@
 * [Application Structure](#application-structure)
 * [Key Components](#key-components)
 * [Known Limitations](#known-limitations)
-* [Future Enhancements](#future-enhancements)
 * [License](#license)
 * [Author](#author)
 
@@ -173,16 +172,6 @@ HuffPress/
 
 ---
 
-## Future Enhancements
-
-* Drag-and-drop file upload
-* Paste-text compression mode
-* Visual Huffman tree viewer
-* Compression comparison graphs
-* Support for more file formats
-
----
-
 ## License
 
 MIT License
@@ -192,14 +181,7 @@ MIT License
 ## Author
 
 **Sana Sajjad**
+
 GitHub: [https://github.com/Sana2319](https://github.com/Sana2319)
 Repository: [HuffPress](https://github.com/Sana2319/HuffPress)
 
----
-
-✔ **THIS is now a perfect README.md**
-✔ **Everything inside markdown**
-✔ **Nothing outside**
-✔ **GitHub-ready**
-
-If you want a shorter or more aesthetic version, I can generate it too.
