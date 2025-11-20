@@ -1,6 +1,9 @@
 
 # HuffPress — Huffman Text Compression Tool
 
+## Live Demo
+[Click here to use HuffPress online](https://huffpress.netlify.app/)
+
 ## Table of Contents
 
 * [Project Overview](#project-overview)
